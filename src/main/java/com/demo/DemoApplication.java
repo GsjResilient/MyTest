@@ -15,6 +15,11 @@ public class DemoApplication {
 
 
 		System.out.println("你好5");
+        //你俩冲突了
+		System.out.println("你好3");
+		System.out.println("你好3");System.out.println("你好3");
+		System.out.println("你好3");System.out.println("你好3");
+
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
