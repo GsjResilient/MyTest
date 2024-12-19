@@ -8,7 +8,9 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		System.out.println("你好3");
+        //他们俩冲突了
 
+		System.out.println("你好4");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
