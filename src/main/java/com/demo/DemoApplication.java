@@ -11,6 +11,10 @@ public class DemoApplication {
         //他们俩冲突了
 
 		System.out.println("你好3");
+
+
+
+		System.out.println("你好5");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
