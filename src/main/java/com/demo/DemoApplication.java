@@ -34,6 +34,7 @@ public class DemoApplication {
 		System.out.println("你好3");
 		System.out.println("你好3");
 		System.out.println("你好3");
+		System.out.println("大家好！");
 
 		SpringApplication.run(DemoApplication.class, args);
 	}
