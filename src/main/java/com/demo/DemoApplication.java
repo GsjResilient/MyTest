@@ -28,6 +28,7 @@ public class DemoApplication {
 
 		System.out.println("你好3");
 
+
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
